@@ -1,0 +1,8 @@
+{:deps {integrant {:mvn/version "0.7.0"}
+        riverford/objection {:mvn/version "0.1.1"}
+        employeerepublic/deferst {:mvn/version "0.7.0"}
+
+        ring/ring-jetty-adapter {:mvn/version "1.7.1"}
+        metosin/reitit {:mvn/version "0.3.9"}
+        seancorfield/next.jdbc {:mvn/version "1.0.6"}
+        com.h2database/h2 {:mvn/version "1.4.199"}}}
